@@ -11,6 +11,6 @@ An end-to-end Machine Learning regression project to predict house prices using 
 * **Data Preprocessing:** Handled missing values, encoded categorical features, and removed outliers.
 * **EDA & Visualization:** Analyzed feature correlations and distributions relative to the target price.
 * **Feature Engineering & Transformation:** Applied log transformation (`np.log1p`) to fix target skewness.
-* **Model:** Trained and evaluated a **Linear Regression** model.
+* **Model:** Built and evaluated a **Linear Regression** model.
 
 
